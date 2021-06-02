@@ -2,8 +2,8 @@
 	path = repo
 	url = git@github.com:rafoli/lugbot-repo.git
 [submodule "custom-extensions"]
-	path = custom-extensions
+	path = lugbot-custom-extensions
 	url = git@github.com:rafoli/lugbot-custom-extensions.git
 [submodule "service-upgrade-bot"]
-	path = service-upgrade-bot
+	path = lugbot
 	url = git@github.com:LiferayCloud/service-upgrade-bot.git
